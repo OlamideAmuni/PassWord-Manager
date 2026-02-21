@@ -17,7 +17,7 @@ A simple terminal based tool that securely store passwords,it is built with pyth
 - I created a folder for my project, the folders contains all file i need for the password manager
 - I generated fernet key using cryptography, which is a python library.this program generate the key for encryption and decryption
   
-  -[Generated key](PassWord-Manager/generate_key.py)
+  -[Generated key](generate_key.py)
 - created my main program file named password_manager.py. in this file
    - i loaded the key i generated
    - Created Menu options
@@ -25,7 +25,7 @@ A simple terminal based tool that securely store passwords,it is built with pyth
    - Used While loop to loop through menu options
    - Also created file for storing passwords
      
-     -[password manager code](PassWord-Manager/password_manager.py)
+     -[password manager code](password_manager.py)
 
 ## IDEA BEHIND PROJECT
 Let say this is Terminal-Based-Password-MAnager built with python using cryptography library.
